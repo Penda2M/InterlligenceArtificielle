@@ -1,5 +1,4 @@
-# InterlligenceArtificielle
-Tous ce qui cconcerne le cours d'IA
+# Interlligence Artificielle
 
 ## Artificial Intelligence Courses  
  All notes, lesson and exercices that I'd done in this course is on my google docs. The link is below
